@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">"著名景点指南"</string>
+
+    <string name="scenery1_name">"珠江新城"</string>
+    <string name="scenery2_name">"广州塔"</string>
+    <string name="scenery3_name">"农讲所"</string>
+    <string name="scenery4_name">"黄埔军校"</string>
+    <string name="scenery5_name">"中山纪念堂"</string>
+    <string name="scenery6_name">"越秀公园"</string>
+    <string name="scenery7_name">"花城广场"</string>
+    <string name="scenery8_name">"荔枝湾"</string>
+
+    <string name="scenery1_description">"        广州珠江新城，位居天河、越秀及海珠三区的交接处，东起华南快速干线，西至广州大道，南临珠江，北达黄埔大道，地处如今最繁荣的天河北商务区的南面，承天河北浓厚的商务氛围，浑然组成一条新的城市中轴线，连接西边毗邻的传统商务区域越秀区和待发展的东部区域，贯通隔江相对的南部组团，区位得天独厚。总规划用地面积6.44平方公里，核心地区约1平方公里，商建面积约450万平方米。". </string>
+    <string name="scenery2_description">"        广州塔又称广州新电视塔，昵称小蛮腰，其位于中国广东省广州市海珠区（艺洲岛）赤岗塔附近，距离珠江南岸125米，与珠江新城、花城广场、海心沙岛隔江相望。广州塔塔身主体高454米，天线桅杆高146米，总高度600米，是中国第一高塔。"</string>
+    <string name="scenery3_description">"        广州农民运动讲习所旧址民国十五年（1926年）5月—9月，在番禺学宫举办第六届农民运动讲习所，毛泽东任所长。广州农民运动讲习所旧址存有文物1152件，一级品64件，其中有农民运动讲习所证章和毛泽东主编的《农民问题丛刊》。广州农民运动讲习所旧址是激发党员干部不忘初心，牢记使命，传承红色基因和革命精神的重要载体，对开展爱国主义和革命传统教育具有重要历史文化、红色文化价值。"</string>
+    <string name="scenery4_description">"        黄埔军校建于1924年,建校时的正式名称为“中国国民党陆军军官学校”。因其校址设在广州东南的黄埔岛,史称黄埔军校。 黄埔军校是孙中山先生在中国共产党和苏联的积极支持和帮助下创办的,是第一次国共合作的产物。"</string>
+    <string name="scenery5_description">"        广州中山纪念堂是一座八角形建筑，外形庄严宏伟，具有浓厚的民族特色。设计师巧妙运用了建筑力学的结构原理，采用钢架和钢筋混凝土混合结构，跨度达71米的建筑空间内不设一柱。"</string>
+    <string name="scenery6_description">"        越秀公园是广东省广州市最大的综合性公园。越秀公园主体越秀山以西汉时南越王赵佗曾在山上建“朝汉台”而得名。园内有清代所建一座石牌坊，上面刻着“古之楚亭”四字，不少史籍将“楚庭”（或“楚亭”）视为广州的雏型。园内还有镇海楼、古城墙、四方炮台、中山纪念碑、孙中山读书治事处碑、伍廷芳墓、明绍武君臣冢、海员亭、五羊石像、五羊传说雕塑像群、球形水塔等景点。"</string>
+    <string name="scenery7_description">"        花城广场被誉为广州“城市客厅”，是广州市最大的广场。该广场位于广州市城市新中轴线珠江新城核心节点，东起冼村路，西至华夏路，北靠黄埔大道，南临海心沙。总规划占地面积约56万平方米，种植了超过600棵大树和古树，约两公里长的步行木栈道和占地超过1.5万平方米的浮岛湖。"</string>
+    <string name="scenery8_description">"        荔枝湾，全名荔枝湾涌，是位于广州市荔湾区的一处著名景区。荔枝湾有新旧之分。旧者位于荔湾路驷马涌彩虹桥附近，是荔枝湾故址。新荔枝湾指位于龙津路到多宝路一带，即泮塘周围的（上、下）西关涌，从清末起被称为新荔枝湾。"</string>
+
+    <string name="scenery_string">"景点"</string>
+    <string name="scenery_finder">"广州景点介绍"</string>
+    <string name="done_button_text">Done</string>
+
+</resources>
